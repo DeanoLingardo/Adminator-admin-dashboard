@@ -1,5 +1,5 @@
 # Adminator HTML5 Admin Template
-**Adminator** is a responsive Bootstrap 4 Admin Template. It provides you with a collection of ready to use code snippets and utilities, custom pages, a collection of applications and some useful widgets. Preview of this awesome admin template available here: https://colorlib.com/polygon/adminator/index.html
+
 
 # Preview
 
@@ -7,7 +7,6 @@
 
 ![Adminator admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/adminator-free-admin-dashboard-template.jpg)
 
-### Demo Site: [Here](https://colorlib.com/polygon/adminator/index.html)
 
 ### TOC
 - [Getting Started](#getting-started)
@@ -146,11 +145,7 @@ Used to create a local dev server in order to preview the final output of build 
 - [Roboto Font](https://fonts.google.com/specimen/Roboto)
 - [Bootstrap Datepicker](https://bootstrap-datepicker.readthedocs.io/en/latest/)
 
-### Changelog
-#### V 1.0.0
-Initial Release
-### Authors
-[Colorlib](https://colorlib.com)
+
 ### License
 
-Adminator is licensed under The MIT License (MIT). Which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the final products. But you always need to state that Colorlib is the original author of this template.
+Adminator is licensed under The MIT License (MIT). 
